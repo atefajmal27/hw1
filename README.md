@@ -34,5 +34,10 @@ They have been so dominant in China, there is no competition worth mentioning ho
 ### Results
 Ant Financial has shaken up all the financial services in China. In 2017, they handled more transactions than Mastercard, became the world's largest money market fund, and completed more than $8 billion worth of transactions which is more than double the GDP of Germany. China’s banks complain Ant siphons away their deposits, causing them to pay higher interest rates, and is a factor leading them to close branches and ATMs. One commentator at a state-owned television channel described Ant’s huge money-market fund as [“a vampire sucking blood from banks.”](https://www.wsj.com/articles/jack-mas-giant-financial-startup-is-shaking-the-chinese-banking-system-1532885367) Now, they are aiming to dominate the rest of the world as they are already partnering up with companies from other parts of Asia and Europe and also, eyeing expanding their service to America. And when and if they do expand to America, they would have to face even stronger, larger and stable competitions such as Amazon, PayPal, JPMorgan, Apple, Citibank etc. 
 
+### Recommendation
+If I were to advise them, I would suggest they get in the cryptocurrency field. I would advise to build something that can compete with Coinbase. Coinbase is one of the top FinTech companies in America that allows customers to buy, sell, use and trade cryptocurrency at a stable price as well as it allows businesses to accept cryptocurrencies as a form of payment. To be able to build such a service, they would probably need to use applications such as nginx, Ruby, Rails, D3.js, IronMQ.
+
+
+Many would say that cryptocurrencies are the future but Alipay does not accept cryptocurrency as a form of payment. To get ahead and compete with other companies I think Ant financial needs to bring what they do best- their ecosystem and build on it, add more services and to incorporate cryptocurrency would help them grow furthermore. 
 
 
