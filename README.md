@@ -25,5 +25,14 @@ Their ecosystem made it easy for their users to access different types of financ
 a stake in the fast growing payment service). Observers have long seen Alipay’s Chinese tourist strategy as a “spearhead” to one day go after non-Chinese customers.
 
 
+### Landscape
+Ant Financial offers so many services, it is impossible to tie them down to just one domain. They started off under the Payment/Billing domain and moved on to Investment management, Insurance, Personal finance, online banking, wealth management, open banking, and Robo-advising. The sheer amount of consumer data and the funding and influence and the Alibaba group have allowed them to be this dominant in the Asian market. But just having the data isn’t enough, their data mining, machine learning, the ecosystem have allowed them to come this far. [For example](https://www.applicoinc.com/blog/ant-financial-services-platform-largest-fintech-in-world/), 
+> Yue Bao was able to use Alipay data to identify users who left a positive balance in their Alipay digital wallet. Any users with a balance would be contacted, educated on the benefits on a money market fund, and invited to open an account. They could also, of course, choose to invest in any fund listed on Ant Fortune. In a market starved for consumer financial products, Ant’s investment platforms were an instant hit.
+
+They have been so dominant in China, there is no competition worth mentioning however, as they have been expanding to other parts of Asia, Europe and even trying to come to the American market, they can face serious competition with the likes of PayPal, Visa, Mastercard, JPMorgan, Goldman Sachs etc. 
+
+### Results
+Ant Financial has shaken up all the financial services in China. In 2017, they handled more transactions than Mastercard, became the world's largest money market fund, and completed more than $8 billion worth of transactions which is more than double the GDP of Germany. China’s banks complain Ant siphons away their deposits, causing them to pay higher interest rates, and is a factor leading them to close branches and ATMs. One commentator at a state-owned television channel described Ant’s huge money-market fund as [“a vampire sucking blood from banks.”](https://www.wsj.com/articles/jack-mas-giant-financial-startup-is-shaking-the-chinese-banking-system-1532885367) Now, they are aiming to dominate the rest of the world as they are already partnering up with companies from other parts of Asia and Europe and also, eyeing expanding their service to America. And when and if they do expand to America, they would have to face even stronger, larger and stable competitions such as Amazon, PayPal, JPMorgan, Apple, Citibank etc. 
+
 
 
