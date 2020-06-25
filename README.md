@@ -18,4 +18,4 @@ As Alipay expanded into Ant Financial, they have been able to offer more service
 
 The fact that they acquired so much data over the years, it made it so much easier for them to dominate any financial service as they can very successfully predict consumer’s behavior. The company currently has [over 1.2 billion users around the world](https://www.cnbc.com/2019/11/19/ant-financial-no-ipo-timetable-but-plans-to-acquire-more-users-outside-china.html).The reason for them to be so huge is that they compete in various sectors of financial sectors as mentioned before. Here is a chart that shows how dominant they are in different sectors:
 
-<img src="screenshot.png" width="185" height="300" alt="">
+<img src="screenshot.png" width="250" height="350" alt="">
