@@ -17,4 +17,5 @@ As Alipay expanded into Ant Financial, they have been able to offer more service
 >“Yu’e Bao shocked banking executives around the world with its immense growth. It started when the widely used payment service Alipay (operated by Ant Financial, an affiliate of Alibaba at the time) added the money market fund to its app. The fund was designed for spare cash, and Chinese consumers began using it like a checking account. They are able to pay for anything, from haircuts to hot pot dinners, directly out of their high-yielding investment holdings, seamlessly and easily.”  
 
 The fact that they acquired so much data over the years, it made it so much easier for them to dominate any financial service as they can very successfully predict consumer’s behavior. The company currently has [over 1.2 billion users around the world](https://www.cnbc.com/2019/11/19/ant-financial-no-ipo-timetable-but-plans-to-acquire-more-users-outside-china.html).The reason for them to be so huge is that they compete in various sectors of financial sectors as mentioned before. Here is a chart that shows how dominant they are in different sectors:
-![](screenshot.png)
+
+<img src="screenshot.png" width="185" height="300" alt="">
