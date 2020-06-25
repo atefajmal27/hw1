@@ -8,7 +8,7 @@ Founded in October 2014, Ant Financial is the largest FinTech company in the wor
 
 
 ### Business Activities
-Alipay has made it easy for buyers and sellers to make transactions online with a small fee. Their service is very similar to PayPal except that they do not charge any foreign exchange fee. Accoeding to [ChinaSalesCo]:(https://www.chinasalesco.com/services/exporter-tips/110-how-does-alipay-compare-with-paypal)
+Alipay has made it easy for buyers and sellers to make transactions online with a small fee. Their service is very similar to PayPal except that they do not charge any foreign exchange fee. According to [ChinaSalesCo](https://www.chinasalesco.com/services/exporter-tips/110-how-does-alipay-compare-with-paypal):
 >“Another key difference is Paypal assists the wire of funds between users'-bank accounts, but Alipay qualifies and then moves funds between buyer-and-merchant-Alipay accounts.”
 
 Along with these, as Alipay offers mobile wallet and touch pay, they have eliminated the need for cash for almost all the everyday transactions. In order to build such services and store data, they mainly used applications such as jQuery, PHP, React, JAVA, nginx, AngularJS, Lodash, Moment.js, Ant Design, Zepto.
