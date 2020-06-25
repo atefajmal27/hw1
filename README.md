@@ -41,3 +41,16 @@ If I were to advise them, I would suggest they get in the cryptocurrency field. 
 Many would say that cryptocurrencies are the future but Alipay does not accept cryptocurrency as a form of payment. To get ahead and compete with other companies I think Ant financial needs to bring what they do best- their ecosystem and build on it, add more services and to incorporate cryptocurrency would help them grow furthermore. 
 
 
+
+
+### References
+1. "5 Things to Know About China's Ant Financial - Briefly - WSJ." 26 Apr. 2016, https://blogs.wsj.com/briefly/2016/04/26/5-things-to-know-about-chinas-ant-financial/.
+2. "Exclusive: China's Ant aims for $200 billion price tag in private ...." 17 Jan. 2020, https://www.reuters.com/article/us-ant-financial-valuation-exclusive/exclusive-chinas-ant-aims-for-200-billion-price-tag-in-private-share-sales-sources-idUSKBN1ZG1C6.
+3. "How does Alipay compare with PayPal? - China Sales Co." 1 Mar. 2016, https://www.chinasalesco.com/services/exporter-tips/110-how-does-alipay-compare-with-paypal. 
+4. "Alipay - Alipay Tech Stack - StackShare." https://stackshare.io/alipay/alipay.
+5. "Ant Financial's Yu'e Bao is no longer the world's biggest ...." 28 Jan. 2020, https://qz.com/1791778/ant-financials-yue-bao-is-no-longer-the-worlds-biggest-money-market-fund/. 
+6. "Ant Financial: No IPO timetable but plans to acquire more ...." 19 Nov. 2019, https://www.cnbc.com/2019/11/19/ant-financial-no-ipo-timetable-but-plans-to-acquire-more-users-outside-china.html.
+7. "Jack Ma's Giant Financial start- up is shaking the Chinese ...." 4 Aug. 2018, https://textile-future.com/archives/13257. 
+8. "Ant Financial's Alipay is expanding rapidly outside of China ...." 15 Mar. 2019, https://qz.com/1570052/ant-financials-alipay-is-expanding-rapidly-outside-of-china/.
+9. "How Ant Financial Became the Largest Fintech in the World." 4 Mar. 2019, https://www.applicoinc.com/blog/ant-financial-services-platform-largest-fintech-in-world/.
+10. "Jack Ma's Giant Financial Startup Is Shaking the Chinese ...." 29 Jul. 2018, https://www.wsj.com/articles/jack-mas-giant-financial-startup-is-shaking-the-chinese-banking-system-1532885367.
